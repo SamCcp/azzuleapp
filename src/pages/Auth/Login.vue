@@ -8,10 +8,15 @@
         >
           <q-card-section>
             <div class="fit row wrap justify-center items-start content-start">
-              <q-img 
+              <!-- <q-img 
                 src="../../../public/primuslabs.svg"
                 spinner-color="white"
+              /> -->
+              <q-img 
+                src="../../assets/azzule-logo-wide.png"
+                spinner-color="white"
               />
+
             </div>
           </q-card-section>
           <!-- <q-card-section>
